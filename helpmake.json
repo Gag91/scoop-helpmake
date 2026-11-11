@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Gag91/Help_Make/releases/download/v12.4.5/hm-windows-x86_64.zip",
-            "hash": "A9070F2D541E54B36C9639752E952A2C6726DCFAE11CBEC0809CB61B153DBBD0"
+            "hash": "e336bb3774f260dbae08f90f749875ee2388c53325be9879acd934a77dc7727f"
         }
     },
     "bin": "hm.exe",
